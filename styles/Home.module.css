@@ -11,10 +11,21 @@
   background-color: #19A2AE;
   width: 100vw;
   height: 100vh;
+  position: fixed; top: 0; left: 0;
 }
 
 .botton{
   position: absolute;
-  right: -190px;
-  bottom: -60%;
+  right: 0px;
+  bottom: 0%;
+  width: 50%;
+  height: 50%;
+}
+
+.top{
+  position: absolute;
+  left:-15%;
+  top: -50%;
+  width: 50%;
+  height: 50%;
 }
